@@ -1,0 +1,8 @@
+{
+  "checked_on": "2026-10-21",
+  "sha256": {
+    "archive\\original_cv.py": "87d917ade1208bb5d7e994f213e5630cb7f18bba2a58db526a0d7f170a57526e",
+    "examples\\grid.jpeg": "4fc2ed424db3510052f097e1bf19845a13d581302c63594e3fabf3f098c177c1"
+  },
+  "duplicate_submission": "RMI Basic Tasks/CV/108125067_CVxML_Task1.py matches the archived original byte-for-byte"
+}

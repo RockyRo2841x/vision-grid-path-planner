@@ -1,0 +1,3 @@
+archive/original_cv.py -text
+*.jpeg binary
+*.png binary
